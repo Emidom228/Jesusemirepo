@@ -1,7 +1,7 @@
 # Reporte de Práctica 1: Temporizador 555 en Modo Astable
-**Institución:** Universidad Iberoamericana Puebla 
-**Materia:** Introducción a la Mecatrónica
-**Tema:** Electrónica 101: Temporizador 55
+**Institución:** Universidad Iberoamericana Puebla  
+**Materia:** Introducción a la Mecatrónica  
+**Tema:** Electrónica 101: Temporizador 55  
 
 ### Lista de materiales 
  1. (1x) Protoboard
