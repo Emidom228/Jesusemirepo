@@ -55,13 +55,6 @@ $$
 D=\frac{t_{alto}}{T}\times100\%=\frac{R_A+R_B}{R_A+2R_B}\times100\%
 $$
 
-**Porcentaje de error**
-
-$$
-
-\%error=\frac{|teórico-medido|}{teórico}\times100\%
-$$
-
 
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
@@ -73,10 +66,15 @@ $$
 | I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
 
 
-Para conocer el porcetaje de error se utiliza la siguiente formula:
-$$
-x=5
-$$
+Para conocer el porcentaje de error se utiliza la siguiente fórmula:
+
+<div class="arithmatex">
+\[
+\%error=\frac{|\text{teórico}-\text{medido}|}{\text{teórico}}\times100\%
+\]
+</div>
+
+### Explicación de diferencias
 
 ### Explicación de diferencias  
 - **Vcc** → Obtuvimos un porcentaje de error de 7.4%. Esto puede deberse a que la fuente de alimentación no proporciona exactamente el valor nominal de 5V. La diferencia es pequeña, por lo que el valor se encuentra cerca de lo esperado.  
