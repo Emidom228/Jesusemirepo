@@ -65,9 +65,8 @@ $$
 | I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
-
 \[
-\%error=\frac{|4.8-5.37|}{4.8}\times100
+x = \frac{5}{2}
 \]
 
 ### Explicación de diferencias  
