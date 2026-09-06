@@ -25,17 +25,27 @@
  En modo astable, el capacitor ***C*** se carga desde la fuente de alimentación a través de ***RA +RB***. Cuando alcanza 2/3 de ***Vcc***, el 555 activa un circuito de descarga donde ***C***, se descarga através de ***RB*** hasta llegar a 1/3 de ***Vcc***. Este proceso se repite continuamente y, por ello, el LED permanece parpadeando.  
  El tiempo que le lleva al capacitor cargarse y descargarse, determina la frecuencia con la que el LED parpadea. Esos tiempos se calculan con las siguientes fórmulas:  
 
- **Tiempo de carga**:$$t_{alto}=0.693(R_A+R_B)C$$             
- **Tiempo de descarga**:$$t_{bajo}=0.693(R_B)C$$  
- **Periodo**: $$T=t_{alto}+t_{bajo}%$$  
- **Frecuencia**: $$f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}$$  
- **Duty**: $$\frac{t_{alto}}{T}=\frac{R_A+R_B}{R_A+2R_B}\times100\%$$
+ **Tiempo de carga:**
+ $$
+ t_{alto}=0.693(R_A+R_B)C
+ $$          
+ **Tiempo de descarga:**
+ $$
+ t_{bajo}=0.693(R_B)C
+ $$  
+ **Periodo:**
+ $$
+ T=t_{alto}+t_{bajo}%
+ $$  
+ **Frecuencia:**
+ $$
+ f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}
+ $$
+ **Duty:**
+ $$
+ \frac{t_{alto}}{T}=\frac{R_A+R_B}{R_A+2R_B}\times100\%
+ $$
 
-**Frecuencia:**
-
-$$
-f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}
-$$
 
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
