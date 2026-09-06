@@ -91,5 +91,5 @@ $$
 
 ### *Montaje en protoboard*
 
-<img src="../img/IMG_6945.jpg" alt="Montaje 1" width="400">
-<img src="../img/IMG_6870.jpeg" alt="Montaje 2" width="400">
+![Montaje](../img/IMG_6945.jpg)
+![Montaje](../img/IMG_6870.jpeg)
