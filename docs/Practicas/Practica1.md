@@ -55,10 +55,6 @@ $$
 D=\frac{t_{alto}}{T}\times100\%=\frac{R_A+R_B}{R_A+2R_B}\times100\%
 $$
 
-$$
-x=5
-$$
-
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
 | --- | --- | --- | --- | --- | 
@@ -67,6 +63,7 @@ $$
 | Frecuencia  (Hz) | 0.69 | 5.37hz | 678% | Osciloscopio |
 | Duty (%) | 52.4% | 55.18% |  5.30% | Osciloscopio |
 | I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
+
 
 Para conocer el porcetaje de error se utiliza la siguiente formula:
 $$
