@@ -18,7 +18,11 @@
  10. (1x) Puntas de osciloscopio 
  
 ### *Simulación*
-![Simulación del temporizador 555](/Jesusemirepo/Practicas/simulacion555.JPG)
+
+![Simulación 555](../img/simulacion555.png)
+
+
+<img src="../img/simulacion555.png" alt="Simulación 555" width="400">
 
 
 ### Fórmulas
