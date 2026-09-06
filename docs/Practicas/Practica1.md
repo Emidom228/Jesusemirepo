@@ -31,6 +31,12 @@
  **Frecuencia**: $$f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}$$  
  **Duty**: $$\frac{t_{alto}}{T}=\frac{R_A+R_B}{R_A+2R_B}\times100\%$$
 
+**Frecuencia:**
+
+$$
+f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}
+$$
+
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
 | --- | --- | --- | --- | --- | 
