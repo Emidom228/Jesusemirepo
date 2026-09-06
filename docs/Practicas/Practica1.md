@@ -26,26 +26,34 @@
  El tiempo que le lleva al capacitor cargarse y descargarse, determina la frecuencia con la que el LED parpadea. Esos tiempos se calculan con las siguientes fórmulas:  
 
  **Tiempo de carga:**
- $$
- t_{alto}=0.693(R_A+R_B)C
- $$          
- **Tiempo de descarga:**
- $$
- t_{bajo}=0.693(R_B)C
- $$  
- **Periodo:**
- $$
- T=t_{alto}+t_{bajo}%
- $$  
- **Frecuencia:**
- $$
- f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}
- $$
- **Duty:**
- $$
- \frac{t_{alto}}{T}=\frac{R_A+R_B}{R_A+2R_B}\times100\%
- $$
 
+$$
+t_{alto}=0.693(R_A+R_B)C
+$$
+
+**Tiempo de descarga:**
+
+$$
+t_{bajo}=0.693(R_B)C
+$$
+
+**Período:**
+
+$$
+T=t_{alto}+t_{bajo}
+$$
+
+**Frecuencia:**
+
+$$
+f=\frac{1}{T}=\frac{1.44}{(R_A+2R_B)C}
+$$
+
+**Duty:**
+
+$$
+D=\frac{t_{alto}}{T}\times100\%=\frac{R_A+R_B}{R_A+2R_B}\times100\%
+$$
 
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
