@@ -96,3 +96,7 @@ $$
 
 
 <video src="../img/555.mp4" width="600" controls></video>
+
+<video src="../img/555.mp4" controls>
+  Tu navegador no soporta video.
+</video>
