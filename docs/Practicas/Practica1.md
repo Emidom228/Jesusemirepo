@@ -66,7 +66,7 @@ $$
 
 Para conocer el porcetaje de error se utiliza la siguiente formula:
 $$
-\%error=\frac{|teórico-medido|}{teórico}\times100\%
+x=5
 $$
 
 ### Explicación de diferencias  
