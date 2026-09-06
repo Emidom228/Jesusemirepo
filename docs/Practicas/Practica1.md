@@ -70,6 +70,7 @@ Para conocer el porcentaje de error se utiliza la siguiente fórmula:
 $$
 \%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\%
 $$
+El cálculo del $ \%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\% $ nos permite comparar valores.
 
 ### Explicación de diferencias  
 - **Vcc** → Obtuvimos un porcentaje de error de 7.4%. Esto puede deberse a que la fuente de alimentación no proporciona exactamente el valor nominal de 5V. La diferencia es pequeña, por lo que el valor se encuentra cerca de lo esperado.  
