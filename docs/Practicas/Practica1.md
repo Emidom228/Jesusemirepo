@@ -18,7 +18,7 @@
  10. (1x) Puntas de osciloscopio 
  
 ### *Simulación*
-<img src="simulación555.JPG" alt="Simulación del temporizador 555" width="400">
+<img src="simulacion555.JPG" alt="Simulación del temporizador 555" width="400">
 
 
 ### Fórmulas
@@ -67,8 +67,11 @@ $$
 
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
+
 $$
-Porecntaje de error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times100\%
+\text{Porcentaje de error} =
+\frac{|\text{teórico} - \text{medido}|}{\text{teórico}}
+\times 100\%
 $$
 
 
@@ -85,6 +88,5 @@ $$
 3. **¿Cómo lo resolviste?:** Corregimos la conexión de los cables y utilizamos un capacitor con mayor capacidad.Ya con eso el LED parpadeó correctamente.
 
 <video controls width="400">
-  <source src="Práctica555.mp4" type="video/mp4">
-  Tu navegador no puede reproducir este video.
+  <source src="555.mp4" type="video/mp4">
 </video>
