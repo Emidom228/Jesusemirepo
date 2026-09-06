@@ -67,7 +67,7 @@ $$
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
 
 \[
-\%\,error=\frac{|teórico-medido|}{teórico}\times100\%
+\%error=\frac{|4.8-5.37|}{4.8}\times100
 \]
 
 ### Explicación de diferencias  
