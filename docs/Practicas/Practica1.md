@@ -62,7 +62,7 @@ $$
 |V de salida en Alto (V) | 3.5 | 4.4V | 25.7% | Multímetro |
 | Frecuencia  (Hz) | 0.69 | 5.37hz | 678% | Osciloscopio |
 | Duty (%) | 52.4% | 55.18% |  5.30% | Osciloscopio |
-| I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
+\| I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
 
