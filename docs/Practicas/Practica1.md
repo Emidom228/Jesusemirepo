@@ -19,10 +19,8 @@
  
 ### *Simulación*
 
-![Simulación 555](../img/simulacion555.png)
+![Simulación 555](../img/simulacion555.JPG)
 
-
-<img src="../img/simulacion555.png" alt="Simulación 555" width="400">
 
 
 ### Fórmulas
