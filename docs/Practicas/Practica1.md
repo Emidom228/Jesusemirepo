@@ -89,7 +89,7 @@ $$
 2. **¿Cómo lo encontramos?:** Al revisar el circuito con la maestra nos comentó que el problema era el capacitor y nos señaló los cables que estaban mal conectados.
 3. **¿Cómo lo resolviste?:** Corregimos la conexión de los cables y utilizamos un capacitor con mayor capacidad.Ya con eso el LED parpadeó correctamente.
 
-<video controls width="400">
-  <source src="555.mp4" type="video/mp4">
-  Tu navegador no puede reproducir este video.
-</video>
+### *Montaje en protoboard*
+
+<img src="../img/IMG_6945.jpg" alt="Montaje 1" width="400">
+<img src="../img/IMG_6870.jpeg" alt="Montaje 2" width="400">
