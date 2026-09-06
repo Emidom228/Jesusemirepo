@@ -71,8 +71,6 @@ $$
 \%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\%
 $$
 
-### Explicación de diferencias
-
 ### Explicación de diferencias  
 - **Vcc** → Obtuvimos un porcentaje de error de 7.4%. Esto puede deberse a que la fuente de alimentación no proporciona exactamente el valor nominal de 5V. La diferencia es pequeña, por lo que el valor se encuentra cerca de lo esperado.  
 - **V de salida en alto** → Porcentaje de error de 25.7%. Esto se debe a las características internas del 555 y a la carga conectada a la salida, que serian el LED y su resistencia. Además, hay que tener en cuenta que nuestro Vcc fue un poco más alto, lo cual tambien influye en el voltaje de salida.  
