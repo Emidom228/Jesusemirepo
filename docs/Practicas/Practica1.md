@@ -18,9 +18,8 @@
  10. (1x) Puntas de osciloscopio 
  
 ### *Simulación*
-<img src="" alt="Simulación del temporizador 555" width="400">
+![Simulación del temporizador 555](/Jesusemirepo/Practicas/simulacion555.JPG)
 
-![Simulación del temporizador 555](simulacion555.JPG)
 
 ### Fórmulas
  En modo astable, el capacitor ***C*** se carga desde la fuente de alimentación a través de ***RA +RB***. Cuando alcanza 2/3 de ***Vcc***, el 555 activa un circuito de descarga donde ***C***, se descarga através de ***RB*** hasta llegar a 1/3 de ***Vcc***. Este proceso se repite continuamente y, por ello, el LED permanece parpadeando.  
