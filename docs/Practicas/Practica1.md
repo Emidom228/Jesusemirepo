@@ -19,7 +19,7 @@
  
 ### *Simulación*
 <img src="simulación555.JPG" alt="Simulación del temporizador 555" width="400">
----
+
 
 ### Fórmulas
  En modo astable, el capacitor ***C*** se carga desde la fuente de alimentación a través de ***RA +RB***. Cuando alcanza 2/3 de ***Vcc***, el 555 activa un circuito de descarga donde ***C***, se descarga através de ***RB*** hasta llegar a 1/3 de ***Vcc***. Este proceso se repite continuamente y, por ello, el LED permanece parpadeando.  
@@ -65,6 +65,7 @@ $$
 | I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multímetro | 
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
+
 \[
 x = \frac{5}{2}
 \]
