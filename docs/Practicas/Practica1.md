@@ -55,6 +55,14 @@ $$
 D=\frac{t_{alto}}{T}\times100\%=\frac{R_A+R_B}{R_A+2R_B}\times100\%
 $$
 
+**Porcentaje de error**
+
+$$
+
+\%error=\frac{|teórico-medido|}{teórico}\times100\%
+$$
+
+
 ### Tabla Comparativa 
 | Magnitud | Teórico | Medido | % de error | Inst. de medición |
 | --- | --- | --- | --- | --- | 
