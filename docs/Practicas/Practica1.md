@@ -83,3 +83,8 @@ $$
 1. **¿Qué falló?:** Al inicio, teniamos dos cables mal conectados, eso hizo que nuestro LED no encendiera en los primeros intentos. Además, el capacitor que utilizamos al inicio tenia una capacidad menor, por lo que no almacenaba la suficiente energía para que el LED parpadeara. ES por ello que el LED se quedaba encendido en vez de parpadear.
 2. **¿Cómo lo encontramos?:** Al revisar el circuito con la maestra nos comentó que el problema era el capacitor y nos señaló los cables que estaban mal conectados.
 3. **¿Cómo lo resolviste?:** Corregimos la conexión de los cables y utilizamos un capacitor con mayor capacidad.Ya con eso el LED parpadeó correctamente.
+
+<video controls width="400">
+  <source src="Práctica555.mp4" type="video/mp4">
+  Tu navegador no puede reproducir este video.
+</video>
