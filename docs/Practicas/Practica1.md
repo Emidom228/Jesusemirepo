@@ -67,12 +67,9 @@ $$
 
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
-
-<div class="arithmatex">
-\[
-\%error=\frac{|\text{teórico}-\text{medido}|}{\text{teórico}}\times100\%
-\]
-</div>
+$$
+\%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\%
+$$
 
 ### Explicación de diferencias
 
