@@ -41,7 +41,7 @@
 | Duty (%) | 52.4% | 55.18% |  5.30% | Osciloscopio |
 | I del LED (mA) | 1.52mA | 1.47mA | 3.29% | Multimetro | 
 
-Para conocer el *porcentaje de error* se utiliza la siguiente fórmula:  $ \large \%\,error=\frac{|teórico-medido|}{teórico}\times100$  
+Para conocer el porcentaje de error se utiliza la siguiente fórmula:  $ \large \%\,error=\frac{|teórico-medido|}{teórico}\times100$  
 
 Al realizar la fórmula en las 5 magnitudes, nos dimos cuenta que la mayoria de los porcentajes variaban por un porcentaje mínimo 
 
