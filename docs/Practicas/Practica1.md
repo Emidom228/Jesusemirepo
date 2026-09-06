@@ -68,13 +68,18 @@ $$
 
 Para conocer el porcentaje de error se utiliza la siguiente fórmula:
 $$
-\%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\%
+Porecntaje de error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times100\%
 $$
-El cálculo del $ \%error = \frac{|\text{teórico} - \text{medido}|}{\text{teórico}} \times 100\% $ nos permite comparar valores.
+
 
 ### Explicación de diferencias  
 - **Vcc** → Obtuvimos un porcentaje de error de 7.4%. Esto puede deberse a que la fuente de alimentación no proporciona exactamente el valor nominal de 5V. La diferencia es pequeña, por lo que el valor se encuentra cerca de lo esperado.  
 - **V de salida en alto** → Porcentaje de error de 25.7%. Esto se debe a las características internas del 555 y a la carga conectada a la salida, que serian el LED y su resistencia. Además, hay que tener en cuenta que nuestro Vcc fue un poco más alto, lo cual tambien influye en el voltaje de salida.  
 - **Frecuencia** → Tenemos un porcentaje de 678%, el cual es muy alto. Esta diferencia se debe a que el valor teórico se realizó con valores de resistencias y capacitores diferentes a los que utilizamos. Al calcular el valor teórico con las medidas de nuestros componentes, obtuvimos un resultado de 6.26Hz, que se encuentra más cerca de los 5.37Hz que medimos. La diferencia aquí se debe a la tolerancia de los componentes y a las condiciones de medición.    
 - **Duty cycle** → Porcentaje de error de 5.30%. Es una diferencia pequeña y puede ser por las variaciones de los valores de las resistencias y del capacitor, además de las condiciones de medición del osciloscopio.  
-- **I del LED** → Obtuvimos un error de 3.29%. Esta diferencia se debe principalmente a la tolerancia de la resistencia utilizada en el LED, la cual puede tener un valor un poco diferente al que utilizamos. Además, el multímetro puede tener cierta variación al medir.
+- **I del LED** → Obtuvimos un error de 3.29%. Esta diferencia se debe principalmente a la tolerancia de la resistencia utilizada en el LED, la cual puede tener un valor un poco diferente al que utilizamos. Además, el multímetro puede tener cierta variación al medir.  
+
+### Bitácora de errores
+1. **¿Qué falló?:** Al inicio, teniamos dos cables mal conectados, eso hizo que nuestro LED no encendiera en los primeros intentos. Además, el capacitor que utilizamos al inicio tenia una capacidad menor, por lo que no almacenaba la suficiente energía para que el LED parpadeara. ES por ello que el LED se quedaba encendido en vez de parpadear.
+2. **¿Cómo lo encontramos?:** Al revisar el circuito con la maestra nos comentó que el problema era el capacitor y nos señaló los cables que estaban mal conectados.
+3. **¿Cómo lo resolviste?:** Corregimos la conexión de los cables y utilizamos un capacitor con mayor capacidad.Ya con eso el LED parpadeó correctamente.
