@@ -95,5 +95,8 @@ $$
 ![Montaje](../img/IMG_6870.jpeg)
 
 
-[Videoó](../Practicas/555_convertido.mp4)
-[Video](../img/555.mp4)
+[Video](../img/555.mp4)  
+
+Tania Hernández Cruz 
+Jesús Emiliano Hérnandez Domínguez
+
