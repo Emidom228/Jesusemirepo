@@ -95,8 +95,4 @@ $$
 ![Montaje](../img/IMG_6870.jpeg)
 
 
-<video src="../img/555.mp4" width="600" controls></video>
-
-<video src="../img/555.mp4" controls>
-  Tu navegador no soporta video.
-</video>
+<video src="../Practicas/555_convertido.mp4" controls></video>
