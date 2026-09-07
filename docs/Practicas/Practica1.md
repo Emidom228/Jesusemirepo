@@ -97,6 +97,6 @@ $$
 
 [Video](../img/555.mp4)  
 
-Tania Hernández Cruz 
+Tania Hernández Cruz  
 Jesús Emiliano Hérnandez Domínguez
 
