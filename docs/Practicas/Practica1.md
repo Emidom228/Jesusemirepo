@@ -95,4 +95,5 @@ $$
 ![Montaje](../img/IMG_6870.jpeg)
 
 
-[Ver el video de la simulación](../Practicas/555_convertido.mp4)
+[Videoó](../Practicas/555_convertido.mp4)
+[Video](../img/555.mp4)
