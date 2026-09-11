@@ -24,18 +24,9 @@ Porque al estar en reposo el botón el circuito se encuentra prendido, es decir,
 
 ### *Ensamble*  
 **Blink**
-<img src="/docs/img/blink.jpeg" style="width:50%;">  
-
 ![Blink](../img/blink.jpeg)
+![Blink](../img/blink_arduino.JPG)
 
-<img src="/docs/img/blink_arduino.JPG" style="width:50%;">   
-  
 **Blink con botón**  
-<img src="/docs/img/blinkboton.jpeg" style="width:50%;">  
-<img src="/docs/img/blinkboton2.jpeg" style="width:50%;">  
-<img src="/docs/img/blinkboton_arduino.JPG" style="width:50%;">    
-  
+
 **Toogle con antirrebote**  
-<img src="/docs/img/rebote.jpeg" style="width:50%;">  
-<img src="/docs/img/rebote1.jpeg" style="width:50%;">  
-<img src="/docs/img/rebote_arduino.JPG" style="width:50%;">  
