@@ -22,15 +22,17 @@ Porque al estar en reposo el botón el circuito se encuentra prendido, es decir,
 2. **¿Cómo lo encontramos?:** Tuvimos que leer multiples veces el código y borrarlo.
 3. **¿Cómo lo resolviste?:** Volvimos a escribir el código 3 veces hasta comprenderlo  
 
-### Ensamble
+### *Ensamble*  
 **Blink**
-![Blink](../img/blink.jpeg)
-![Blink_arduino](../img/blink_arduino.JPG)  
-**Blink con botón**
-![Blink_botón](../img/blinkboton.jpeg)
-![Blink_botón1](../img/blinkboton2.jpeg)
-![Blink_arduino](../img/blink_arduino.JPGg)
-**Toogle con antirrebote**
-![Rebote](../img/rebote.jpeg)
-![Rebote1](../img/rebote1.jpeg)
-![Rebote_arduino](../img/rebote_arduino.JPG)
+<img src="../img/blink.jpeg" style="width:50%;">  
+<img src="../img/blink_arduino.JPG" style="width:50%;">   
+  
+**Blink con botón**  
+<img src="../img/blinkboton.jpeg" style="width:50%;">  
+<img src="../img/blinkboton2.jpeg.jpeg" style="width:50%;">  
+<img src="../img/blinkboton_arduino.JPG" style="width:50%;">    
+  
+**Toogle con antirrebote**  
+<img src="../img/rebote.jpeg" style="width:50%;">  
+<img src="../img/rebote1.jpeg" style="width:50%;">  
+<img src="../img/rebote_arduino.JPG" style="width:50%;">  
