@@ -24,12 +24,12 @@ Porque al estar en reposo el botón el circuito se encuentra prendido, es decir,
 
 ### *Ensamble*  
 **Blink**
-<img src="../img/blink.jpeg" style="width:50%;">  
-<img src="../img/blink_arduino.JPG" style="width:50%;">   
+<img src="/docs/img/blink.jpeg" style="width:50%;">  
+<img src="/docs/img/blink_arduino.JPG" style="width:50%;">   
   
 **Blink con botón**  
 <img src="../img/blinkboton.jpeg" style="width:50%;">  
-<img src="../img/blinkboton2.jpeg.jpeg" style="width:50%;">  
+<img src="../img/blinkboton2.jpeg" style="width:50%;">  
 <img src="../img/blinkboton_arduino.JPG" style="width:50%;">    
   
 **Toogle con antirrebote**  
