@@ -2,13 +2,13 @@
 
 **Equipo**:
 
- - Nombre integrante 1
- - Nombre integrante 2
+ - Jesús Emiliano Hernández Domínguez
+ - Tania Hernández Cruz
 
 **Contacto**: 
 
-- Correo integrante 1
-- Correo integrante 2
+- emidom0202@gmail.com
+- 205964@iberopuebla.mx
 
 **Carrera**: Ingeniría Mecatrónica
 
