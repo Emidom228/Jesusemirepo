@@ -1,31 +1,57 @@
-# Reporte de Clase 2 de Jesús Emiliano
-**Institución:** Universidad Iberoamericana de Puebla
-**Tema:**Cortadora de Disco y Soldadura
+# Reporte de Clase 2
 
-### 1.- Introducción de la Clase 2
-En esta sesión el maestro Oliver y Cholula nos enseñaron a cortar con cortadora de disco y el funcionamiento de las máquinas de soldar.
+> **Institución:** Universidad Iberoamericana de Puebla  
+> **Alumno:** Jesús Emiliano  
+> **Tema:** Cortadora de Disco y Soldadura  
 
-### 2.- Medidas de seguridad
-Antes de comenzar a utilizar las máquinas debimos cumplir con ciertas medidas para garantizar nuestra seguridad, previamente nuestro profesor nos solicitó llevar bata de laboratorio o un overol y unas botas con casquillo. Sumado a eso la universidad no proporcionó guantes, pechera, lentes de seguridad y careta para soldar para poder mantener segura nuestra vista en caso de soldar y nuestras extremidades de cualquier material pesado que pueda rebotar o caerse.
-![Seguridad](../../img/Equipo%20de%20seguridad.jpeg)
-![Security](../../img/Quipo%20de%20seguridad.jpeg)
+---
 
-### 3.- Funcionamiento de la Maquina de Soldar
-La primera máquina utilizada fue la de soldar, era una Miller y el profesor Cholula nos explicó como utilizarla:
-1.- Conexión de la máquina: Primero la máquina se conectó a un enchufe especial que administra una mayor corriente
-2.- Conexión con la mesa: La máquina cuenta con dos pinzas, una de tierra la cual se conecta con la mesa metálica sobre la cual se va a trabajar y la otra conocida coo porta electrodo la cuál va a sostener la varilla que se fundirá en el material que se busca soldar. (Es importante entender que el sistema funciona como un circuito el cual al cerrarse funde la varilla).
-3.- Ajustar el Voltaje y la corriente: Es necesario ajustar las cantidades necesarias según la acción a realizar, el grosor del material y la experiencia del soldador; un voltaje alto puede ocasionar perforaciones en la pieza a trabajar y uno muy bajo que la varilla no se funda correctamente y se una mal al material o se pegue.
-4.- Confirmar medidas de seguridad: Si estas acompañado antes de iniciar el procedimiento comprueba que las personas a tu alrededor tengan careta puesta debido a que podrías causar un daño en su vista. No olvides que debes usar guantes aislantes en toda ocasión y mantener una correcta técnica.
-![miller](../../img/Miller.jpeg)
+## 1. Introducción de la Clase
+En esta sesión, el profesor Oliver y el profesor Cholula nos enseñaron a utilizar la cortadora de disco y nos explicaron el funcionamiento de las máquinas de soldar.
 
-### 4.- Funcionamiento de la Cortadora.
-La segunda máquina utilizada fue la cortadora con disco en la cual el profesor Oliver mostró los pasos correctos para evitar accidentes.
-1.-  Se fija el material a cortar con la prensa lo suficientemente fuerte como para que no se mueva y se mantenga estable.
-2.- Se presionan los dos botones con los que cuenta la cortadora de disco simultáneamente de lo contrario no se activará.
-3.- El corte debe ser una velocidad estable y hasta abajo para evitar que ciertas piezas queden colgadas y salgan defectuosas. (Minimiza los riesgos para ti y para otra persona)
-4.-  No toques el material cortado con las manos directamente debido a que se corta mediante fricción por lo cual el material se calienta.
+---
+
+## 2. Medidas de Seguridad
+Antes de comenzar a utilizar las máquinas, cumplimos con las medidas necesarias para garantizar nuestra seguridad. Previamente, el profesor nos solicitó llevar bata de laboratorio u overol y botas con casquillo. Adicionalmente, la universidad nos proporcionó equipo de protección:
+- Guantes
+- Pechera
+- Lentes de seguridad
+- Careta para soldar (para proteger la vista) y protección para extremidades ante la caída de materiales pesados.
+
+### Evidencia de Equipo de Seguridad
+| Equipo de Protección 1 | Equipo de Protección 2 |
+| :---: | :---: |
+| ![Seguridad](../../img/Equipo%20de%20seguridad.jpeg) | ![Security](../../img/Quipo%20de%20seguridad.jpeg) |
+
+---
+
+## 3. Funcionamiento de la Máquina de Soldar
+La primera máquina utilizada fue una **Miller**. El profesor Cholula nos explicó los pasos para operarla:
+
+1. **Conexión de la máquina:** Se conecta a un enchufe especial que administra una mayor corriente.
+2. **Conexión con la mesa:** La máquina cuenta con dos pinzas:
+   - **Pinza de tierra:** Se conecta a la mesa metálica de trabajo.
+   - **Portaelectrodo:** Sostiene la varilla que se fundirá en el material. *(El sistema funciona como un circuito que, al cerrarse, funde la varilla).*
+3. **Ajuste de voltaje y corriente:** Se configuran según la acción a realizar, el grosor del material y la experiencia del soldador. Un voltaje muy alto puede perforar la pieza; uno muy bajo impedirá que la varilla se funda correctamente, provocando una unión defectuosa o que se pegue.
+4. **Confirmar medidas de seguridad:** Antes de iniciar, verifica que las personas a tu alrededor tengan puesta la careta para evitar daños en su vista. Usa guantes aislantes en todo momento y mantén una técnica adecuada.
+
+### Evidencia de la Máquina
+![Miller](../../img/Miller.jpeg)
+
+---
+
+## 4. Funcionamiento de la Cortadora de Disco
+La segunda máquina utilizada fue la cortadora de disco, donde el profesor Oliver mostró el procedimiento seguro:
+
+1. **Fijar el material:** Asegurar el material con la prensa de forma firme para evitar movimientos y mantener la estabilidad.
+2. **Encendido:** Presionar los dos botones de la cortadora simultáneamente (de lo contrario, no se activará).
+3. **Realizar el corte:** El movimiento debe efectuarse a una velocidad estable y de arriba hacia abajo hasta el fondo, evitando piezas defectuosas y minimizando riesgos para ti y los demás.
+4. **Manejo posterior:** No tocar el material cortado directamente con las manos, ya que el corte por fricción eleva considerablemente la temperatura del metal.
+
+### Evidencia de la Cortadora
 ![Cortee](../../img/Corteee.jpeg)
 
-### 5.- Practica
-Durante toda la sesión fue teoría y practica, el maestro Cholula nos guió para soldar una pieza metálica de la manera más limpia posible y nos explico que no debemos tenerle miedo a la máquina ya que el miedo puede acernos vulnerables a cometer errores.
-Después el profesor Oliver nos ayudó uno por uno a cortar una parte de un tubo metálico en la cortadora de sierra.
+---
+
+## 5. Práctica
+La sesión combinó teoría y práctica. El profesor Cholula nos guió para soldar una pieza metálica de la manera más limpia posible, aconsejándonos no tenerle miedo a la máquina para evitar errores por inseguridad. Posteriormente, el profesor Oliver nos auxilió de forma individual para realizar un corte en un tubo metálico con la cortadora.
