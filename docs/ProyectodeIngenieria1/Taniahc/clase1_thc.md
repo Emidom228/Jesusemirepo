@@ -16,6 +16,9 @@ Pasos para utilizar la máquina de forma segura y correcta.
 !!! note "Nota"
     Asegurarse de que todas las personas porten careta al momento de soldar.
 
+<img src="../../img/soldar.jpeg" alt="soldar" width="300">
+![Soldar](../../img/soldar.jpeg)
+
 ### Uso de Cortadoras de metal
 Aprendimos a utilizar 2 tipos de cortadoras, en 90° y 45°. Ambas estan compuestas de un disco tipo lija, que desgasta el material hasta cortarlo.
 1. Se fija el material con la prensa que esta en la cortadora.
