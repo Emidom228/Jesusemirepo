@@ -39,4 +39,4 @@ Aplicando los conocimientos previos, comenzamos a modelar las piezas de la **sec
 
 | Pieza 1 | Pieza 3 |
 | :---: | :---: |
-| ![Pieza 1](/Jesusemirepo/docs/img/Pieza%201.png) | ![Pieza 3](/Jesusemirepo/docs/img/Pieza%203.png) |
+| ![Pieza 1](../../img/Pieza%201.jpeg) | ![Pieza 3](../../img/Pieza%203.jpeg) 
