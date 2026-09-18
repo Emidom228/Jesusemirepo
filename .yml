@@ -1,0 +1,14 @@
+[1mdiff --git a/mkdocs.yml b/mkdocs.yml[m
+[1mindex 0fa94f7..a50e28c 100644[m
+[1m--- a/mkdocs.yml[m
+[1m+++ b/mkdocs.yml[m
+[36m@@ -60,7 +60,7 @@[m [mnav:[m
+       - "Visión Mecatrónica Tania": Reflexiones/VisionMecatronica_tania.md[m
+   - "Proyecto de Ingeniería 1":[m
+       - "Jesús Emiliano":[m
+[31m-        - "Clase 1": Proyectodeingenieria1/Jesusemiliano/clase1_jehd.md[m
+[32m+[m[32m        - "Clase 1": ./ProyectodeIngenieria1/Jesusemiliano/clase1_jehd.md[m
+       - "Tania Hernández":[m
+[31m-        - "Clase 1": Proyectodeingenieria1/Taniahc/clase1_thc.md[m
+[32m+[m[32m        - "Clase 1": ./ProyectodeIngenieria1/Taniahc/clase1_thc.md[m
+ [m
