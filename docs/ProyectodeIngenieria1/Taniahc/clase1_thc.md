@@ -39,4 +39,11 @@
 2. Busca emparejar los bordes. |
 
 ### Conclusiones
-Al final de la clase, tengo un mayor conocimiento sobre las máquinas, porque, a demás de conocerlas tuve la oportunidad de utilizarlas lo que que me familiarizo con su funcionamiento. Es una buena práctica porque es mejor aprender de la mano de un profesor que nos corrija, que por nuestra cuenta donde no vamos a saber cuando algo esta mal.
+
+Al final de la clase, se cortaron piezas metálicas por medio de la cortadora, se desbastaron con el esmeril y finalmente se soldaron entre ellas para aplicar lo aprendido en la clase.
+En conclusióntengo un mayor conocimiento sobre las máquinas, porque, a demás de conocerlas tuve la oportunidad de utilizarlas lo que que me familiarizo con su funcionamiento. Es una buena práctica porque es mejor aprender de la mano de un profesor que nos corrija, que por nuestra cuenta donde no vamos a saber cuando algo esta mal.
+![Práctica](../../img/prc.jpeg)
+![Pizas finales](../../img/pieza.jpeg)
+
+---
+Tania Hernández Cruz
