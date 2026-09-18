@@ -1,23 +1,42 @@
-# Reporte de Clase 1 de Jesús Emiliano
-**Institución:** Universidad Iberoamericana de Puebla
-**Tema:**Introducción de la Materia y Diseño por computadora básica
+# Reporte de Clase 1
 
-### 1.- Introducción de la Clase 1:
-El maestro Oliver introdujo su materia y nos preguntó que era lo que más se nos había dificultado a lo largo de la primera semana y unas compañeras comentaron que fu edieño por computadora, por lo que el maestro Oliver decidió enseñarnos unas funciones del programa de modelado 3D conocido como SolidWorks.
+> **Institución:** Universidad Iberoamericana de Puebla  
+> **Alumno:** Jesús Emiliano  
+> **Tema:** Introducción de la Materia y Diseño por Computadora Básica  
 
-### 2.-Inicio de modelado 3D en Solid Works
-Antes de conocer y manipular alguna herramienta nos introdujo a la forma idonea de pensar para modelar en 3D y nos comentó que el primer paso era pensar en un dibujo 2D, pensarlo en geometría básica, buscar el plano en el que se va a trabajar y el objetivo es dejar todas las partes del dibujo como dijas (azules).
+---
 
-Después nos explico herramientas básicas y partes del programa como lo son:
-- **Arbol de operaciones:** Muestra todas las operaciones y elementos que conforman tu pieza de una manera organizada
-- **Croquis:** Es un dibujo 2D que haces sobre un plano o cara de alguna pieza.
-- **Zoom:** Acerca o aleja la bista de la pieza.
-- **Rotar:** Gira la vista de la pieza en 3D.
-- **Control 8:** Acomoda la vista del plano seleccionado para facilitar su manipulación.
-- **Cota Inteligente:** Permite asignarle medidas Exactas a los croquis.
-- **Extuir:** Permite convertir un croquis 2D en un apieza 3D.
+## 1. Introducción de la Clase
+El profesor Oliver introdujo la materia y abrió un espacio para comentar las principales dificultades de la primera semana. Varias compañeras señalaron que el **diseño por computadora** representaba un reto, por lo que el profesor decidió explicar las funciones esenciales del programa de modelado 3D **SolidWorks**.
 
-### 3.- Practica
-Teniendo en cuenta el conocimiento previo comenzamos a modelar las piezas 1,2 y 3 de la sección A del Libro de ejercicios en parejas: A mí me tocaron el 1 y el 3 y a continuación adjuntarer evidencia de mi trabajo.
-![Pieza1](../../img/Pieza%201.jpeg)
-![Pieza2](../../img/Pieza%203.jpeg)
+---
+
+## 2. Inicio de Modelado en SolidWorks
+Antes de manipular las herramientas, el profesor explicó el enfoque mental idóneo para el modelado 3D:
+
+1. Visualizar la pieza como un dibujo en **2D**.
+2. Desglosarlo en **geometría básica**.
+3. Seleccionar el plano de trabajo adecuado.
+
+### Herramientas y Conceptos Básicos
+
+| Herramienta / Elemento | Descripción |
+| :--- | :--- |
+| **Árbol de operaciones** | Muestra de forma organizada todas las operaciones y elementos que conforman la pieza. |
+| **Croquis** | Dibujo en 2D realizado sobre un plano o cara de una pieza. |
+| **Zoom** | Permite acercar o alejar la vista de la pieza. |
+| **Rotar** | Gira la vista de la pieza en 3D. |
+| **Control 8** | Acomoda la vista normal al plano seleccionado para facilitar su manipulación. |
+| **Cota Inteligente** | Permite asignar medidas exactas a los croquis. |
+| **Extruir** | Permite convertir un croquis 2D en una pieza 3D. |
+
+---
+
+## 3. Práctica
+Aplicando los conocimientos previos, comenzamos a modelar las piezas de la **sección A** del libro de ejercicios en parejas. A mí me correspondieron la **pieza 1** y la **pieza 3**. A continuación, adjunto la evidencia de mi trabajo:
+
+### Evidencias de Modelado
+
+| Pieza 1 | Pieza 3 |
+| :---: | :---: |
+| ![Pieza 1](/Jesusemirepo/docs/img/Pieza%201.png) | ![Pieza 3](/Jesusemirepo/docs/img/Pieza%203.png) |
