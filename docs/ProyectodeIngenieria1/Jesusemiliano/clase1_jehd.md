@@ -7,15 +7,15 @@
 ---
 
 ## 1. Introducción de la Clase
-El profesor Oliver introdujo la materia y abrió un espacio para comentar las principales dificultades de la primera semana. Varias compañeras señalaron que el **diseño por computadora** representaba un reto, por lo que el profesor decidió explicar las funciones esenciales del programa de modelado 3D **SolidWorks**.
+El profesor Oliver introdujo la materia y abrió un espacio para comentar las principales dificultades de la primera semana. Varias compañeras señalaron que el diseño por computadora representaba un reto, por lo que el profesor decidió explicar las funciones esenciales del programa de modelado 3D SolidWorks.
 
 ---
 
 ## 2. Inicio de Modelado en SolidWorks
 Antes de manipular las herramientas, el profesor explicó el enfoque mental idóneo para el modelado 3D:
 
-1. Visualizar la pieza como un dibujo en **2D**.
-2. Desglosarlo en **geometría básica**.
+1. Visualizar la pieza como un dibujo en 2D.
+2. Desglosarlo en geometría básica.
 3. Seleccionar el plano de trabajo adecuado.
 
 ### Herramientas y Conceptos Básicos
@@ -33,7 +33,7 @@ Antes de manipular las herramientas, el profesor explicó el enfoque mental idó
 ---
 
 ## 3. Práctica
-Aplicando los conocimientos previos, comenzamos a modelar las piezas de la **sección A** del libro de ejercicios en parejas. A mí me correspondieron la **pieza 1** y la **pieza 3**. A continuación, adjunto la evidencia de mi trabajo:
+Aplicando los conocimientos previos, comenzamos a modelar las piezas de la sección A del libro de ejercicios en parejas. A mí me correspondieron la pieza 1 y la pieza 3. A continuación, adjunto la evidencia de mi trabajo:
 
 ### Evidencias de Modelado
 
