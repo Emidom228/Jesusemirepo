@@ -1,20 +1,36 @@
-# Reporte de Clase 3 de Jesús Emiliano
-**Institución:** Universidad Iberoamericana de Puebla
-**Tema:** Modelado y Corte Laser
+# Reporte de Clase 3
 
-### 1.- Introducción de la Clase 3
-El maestro Oliver nos mostró como diseñar una pieza para cortar y en otra sesión nos enseñó a usar la cortadora laser.
+> **Institución:** Universidad Iberoamericana de Puebla  
+> **Alumno:** Jesús Emiliano  
+> **Tema:** Modelado y Corte Láser  
 
-### 2.- Diseño de Corte Laser
-La primera parte de un corte laser es diseñarlo en un programa de modelado 3D, en este caso usamos SolidWorks, después se diseñan las partes en 2D y se extruye el grosor del material que se utilizará, posteriormente se abre un ensamble y se comprueba que las piezas encajen de la manera deseada, una vez comprobado que nuestro ensamble haya quedado de la forma deseada el diseño se exporta en (.SLDDRW) para que finalmente las piezas se exporten en la tabla a imprimir.
+---
 
-### 3.- Uso de la cortadora Laser
-Primero se prende la maquina mediante una fuente de energía que se encuentra debajo de la maquina y una vez encendida debe comprobarse que se haya prendido el refrigerador al costado que sirve para que la cortadora laser no se sobrecaliente.
+## 1. Introducción de la Clase
+El profesor Oliver nos enseñó cómo diseñar piezas destinadas al corte y, en otra sesión, nos guió en el uso de la cortadora láser.
 
+---
 
-Después se activa la maquina girando una perilla, apretando un botón y accionando una llave, posteriormente se selecciona el origen del cual se quiere partir, se ajusta la distancia del láser y del material el cual lo recomendable es el ancho de una USB.
+## 2. Diseño para Corte Láser
+El proceso para realizar un corte láser consta de los siguientes pasos:
 
-Finalmente en el programa de la computadora se selecciona el programa de la impresora y se le asignan colores a los distintos cortes dependeidno de la acción deseada, ya sea gravado o corte.
+1. **Modelado en 2D/3D:** Se diseña la pieza en SolidWorks, extruyendo el espesor exacto del material que se utilizará.
+2. **Verificación en Ensamble:** Se crea un archivo de ensamble para comprobar que todas las piezas embonen y encajen de la manera deseada.
+3. **Exportación:** Una vez verificado el diseño, se exporta al formato correspondiente (`.SLDDRW`) para preparar la distribución de las piezas en la mesa de trabajo o impresión.
 
-![Cubo](../../img/cubo.jpeg)
-![máquina](../../img/maquina.jpeg)
+---
+
+## 3. Uso de la Cortadora Láser
+La puesta en marcha y operación de la cortadora láser requiere seguir un protocolo estricto:
+
+1. **Encendido general:** Se enciende la máquina mediante la fuente de energía ubicada en la parte inferior. Es indispensable verificar que el sistema de refrigeración lateral esté funcionando para evitar el sobrecalentamiento del láser.
+2. **Activación de seguridad:** Se activa la máquina girando una perilla, presionando un botón y accionando la llave de encendido.
+3. **Calibración:** 
+   - Se define el origen del cual partirá el corte.
+   - Se ajusta la distancia entre el cabezal del láser y el material (una referencia práctica recomendada es utilizar el grosor de una memoria USB).
+4. **Configuración del software:** En la computadora, se abre el programa de la impresora y se asignan colores a los diferentes trazos según la acción requerida: grabado o corte.
+
+### Evidencias de Trabajo
+| Pieza / Cubo Resultante | Máquina Láser |
+| :---: | :---: |
+| ![Cubo](../../img/cubo.jpeg) | ![Máquina](../../img/maquina.jpeg) |
