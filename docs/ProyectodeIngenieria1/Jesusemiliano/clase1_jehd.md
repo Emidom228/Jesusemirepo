@@ -19,5 +19,5 @@ Después nos explico herramientas básicas y partes del programa como lo son:
 
 ### 3.- Practica
 Teniendo en cuenta el conocimiento previo comenzamos a modelar las piezas 1,2 y 3 de la sección A del Libro de ejercicios en parejas: A mí me tocaron el 1 y el 3 y a continuación adjuntarer evidencia de mi trabajo.
-![Pieza1](/Jesusemirepo/docs/img/Pieza%201.png)
-1[Pieza2](/Jesusemirepo/docs/img/Pieza%203.png)
+![Pieza1](../../img/Pieza%201.jpeg)
+![Pieza2](../../img/Pieza%203.jpeg)
