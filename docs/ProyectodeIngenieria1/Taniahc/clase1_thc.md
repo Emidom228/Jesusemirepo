@@ -14,6 +14,8 @@
     
   </div>
 </div>
+![Imagen](../../img/sgd.jpeg)
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <img src="../../img/sgd1.jpeg" width="300">
