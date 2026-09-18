@@ -2,6 +2,12 @@
 *(28 de Agosto)*
 
 # Equipo de Seguridad
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="../../img/sgd.jpeg" width="300">
+</div>
+
+
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="../../img/sgd.jpeg" width="300">
 
