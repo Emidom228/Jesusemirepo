@@ -5,32 +5,8 @@
 | Imagen | Descripción |
 |---|---|
 | ![Equipo de seguridad](../../img/sgd.jpeg) | Al momento de soldar es necesario utilizar el equipo correcto, ya que nos ayuda a reducir la posibilidad de sufrir una lesión al utilizar las máquinas.<br><br>• **Guantes para soldar:** Nos protegen de los elementos calientes y filosos.<br><br>• **Careta:** Protege la vista de la luz producida por la máquina de soldar.<br><br>• **Calzado de seguridad:** Cubre los pies de los objetos que puedan caer.<br><br>• **Peto:** Cubre el torso y la ropa de las partículas calientes y chispas que se generan al soldar. |
+| ![Equipo de Seguridad2](../../img/sgd1.jpeg) | • **Lentes de seguridad:** Protegen los ojos de las pequeñas partículas de metal y de las chispas que salen al cortar y desbastar.<br><br>• **Bata industrial:** Se utiliza para proteger la ropa y el cuerpo de pequeñas chispas. Además, ayuda a mantener la ropa cubierta mientras se utilizan las herramientas. |
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="../../img/sgd.jpeg" width="300">
-
-  <div>
-    <p> Al momento de soldar es necesario utilizar el equipo correcto, ya que nos ayuda a reducir la posibilidad de sufrir una lesión al utilizar las máquinas.
-    <li><strong>Guantes para soldar:</strong>: Nos protegen de los elementos calientes y filosos. </li> 
-    <li><strong>Careta:</strong> Protege la vista de la luz producida por la máquina de soldar.</li>  
-    <li><strong>Calzado de seguridad:</strong> Cubre los pies de los objetos que puedan caer. </li> 
-    <li><strong>Peto:</strong> Cubre el torso y la ropa de las particulas calientes y chispas que se generan al soldar. </p>
-  </div>
-</div>
-
-
-
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="../../img/sgd1.jpeg" width="300">
-  <div>
-    <p><li><strong>Lentes de seguridad:</strong> Protege a los ojos de las pequeñas partículas de metal y de las chispas que salen al cortar y debastar.</li> 
-    <li><strong>Bata Industrial:</strong>Se utiliza para proteger la ropa y el cuerpo de pequeñas chispas,además ayuda a mantener la ropa cubierta mientras se utilizan las herramientas.</li>
-
-</p>
-  </div>
-
-</div>
 
 ### Configuración y uso de la máquina de soldar
 Pasos para utilizar la máquina de forma segura y correcta.
