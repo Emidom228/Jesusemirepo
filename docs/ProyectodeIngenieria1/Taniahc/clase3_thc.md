@@ -1,5 +1,17 @@
 # **Máquina de Corte Láser: Funcionamiento**
-*8 de Septiembre*
+*4 y 8 de Septiembre*
+### **Modelado en Solidworks**
+| Imagen | Expplicación |
+|--------|-------------|
+| ![solid](../../img/solid1.png) | 1. Empezamos haciendo el plano, en el croquis.Dibujando las piezas. |
+| ![solid1](../../img/solid2.png) | 2. Extruimos las piezas, utilizando el grosor del material que tenemos. |
+| Después de realizar todas las puezas necesarias |
+| ![solid2](../../img/solid.png) | 3. Abrimos la opción de ensamble donde podemos agregar todas las piezas que vamos a utilizar  |
+| ![solid3](../../img/solid3.png) |4. Ahí empezamos a acomodar las piezas para asegurarnos de que embonan . |
+| ![solid4](../../img/solidf.png) |4. Por último, agregamos las piezas para el corte. |
+
+
+
 
 ### **Pasos para utilizar la máquina**
 | Imagen | Pasos |
