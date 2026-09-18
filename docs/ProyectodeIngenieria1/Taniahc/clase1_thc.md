@@ -16,7 +16,7 @@ Pasos para utilizar la máquina de forma segura y correcta.
 !!! note "Nota"
     Asegurarse de que todas las personas porten careta al momento de soldar.
 
-<img src="../../img/soldar.jpeg" alt="soldar" width="300">
+<img src="img/soldar.jpeg" alt="soldar" width="300">
 ![Soldar](../../img/soldar.jpeg)
 
 ### Uso de Cortadoras de metal
@@ -30,3 +30,6 @@ Aprendimos a utilizar 2 tipos de cortadoras, en 90° y 45°. Ambas estan compues
 Después de realizar los cortes, se retiró el excendete con el esmeril.
 1. Se acerca la pieza de forma horizontall, evitando ángulos
 2. Busca emparejar los bordes.  
+
+### Conclusiones
+Al final de la clase, todos pasamo a las máquinas
