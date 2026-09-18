@@ -15,3 +15,6 @@ Primero se prende la maquina mediante una fuente de energía que se encuentra de
 Después se activa la maquina girando una perilla, apretando un botón y accionando una llave, posteriormente se selecciona el origen del cual se quiere partir, se ajusta la distancia del láser y del material el cual lo recomendable es el ancho de una USB.
 
 Finalmente en el programa de la computadora se selecciona el programa de la impresora y se le asignan colores a los distintos cortes dependeidno de la acción deseada, ya sea gravado o corte.
+
+![Cubo](../../img/cubo.jpeg)
+![máquina](../../img/maquina.jpeg)
